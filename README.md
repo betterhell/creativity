@@ -2,9 +2,11 @@
 
 <p>This is a vanilla HTML, CSS, JS landing for training GSAP</p>
 
-![image](https://github.com/betterhell/creativity/assets/94512220/85be1ad6-2b06-43ab-a3ec-0e992d0167ea)
-![image](https://github.com/betterhell/creativity/assets/94512220/738da480-b30a-4342-8d04-57e7caa7fa5c)
-![image](https://github.com/betterhell/creativity/assets/94512220/411e4b8e-f7f5-4229-8049-f55d89fbfcfd)
+![image](https://github.com/betterhell/creativity/assets/94512220/48488f21-7b66-4124-ad1d-07219308692a)
+
+![image](https://github.com/betterhell/creativity/assets/94512220/d4e06ef5-6b7a-41c4-ad45-0beda0d22952)
+
+![image](https://github.com/betterhell/creativity/assets/94512220/6a9a2dfb-3a29-45b4-82a8-0966e084771f)
 
 Powered by: 
 <ul>
