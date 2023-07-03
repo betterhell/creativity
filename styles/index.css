@@ -108,3 +108,14 @@ body {
 .text-block__desc {
     line-height: 1.75;
 }
+
+@media screen and (max-width: 990px) {
+    .gallery {
+        display: block;
+    }
+
+    .gallery__item {
+        max-width: 80vw;
+    }
+
+}
